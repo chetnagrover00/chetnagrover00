@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/chetnagrover/](https://www.linkedin.com/in/chetnagrover/)
+- 📝 I regularly post on [https://www.linkedin.com/in/chetnagrover/](https://www.linkedin.com/in/chetnagrover/)
 
 - 💬 Ask me about **css and js**
 
