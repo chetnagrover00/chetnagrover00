@@ -7,6 +7,8 @@
 
 - 📝 I regularly post on [https://www.linkedin.com/in/chetnagrover/](https://www.linkedin.com/in/chetnagrover/)
 
+- 🖌️ Design Portfolio **https://chetnagrover00.github.io/DesignPortfolio/**
+
 - 💬 Ask me about **css and js**
 
 - 📫 How to reach me **chetugrover@gmail.com**
